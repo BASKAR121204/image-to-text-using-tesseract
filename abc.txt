@@ -1,0 +1,13 @@
+#include <stdio.h>
+#define MAX_FRAMES 3
+#define MAX_REFERENCES 20.
+
+int frames[MAX_FRAMES];
+int head = 0;
+int faultCount = 0;
+
+void initFrames() {
+for (int i = 0; < MAX_FRAMES; i+) {
+framesfi] = -1;
+}
+}
